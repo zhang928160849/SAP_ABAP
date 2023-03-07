@@ -4,7 +4,7 @@ CLASS zy_test_git DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
-  data zz type i VALUE 4.
+  data zz type i VALUE 5.
 
 
   METHODS I_am_a_little_change.
