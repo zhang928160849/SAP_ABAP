@@ -18,7 +18,7 @@ METHOD Test.
 DATA a TYPE i.
 DATA b TYPE i.
 DATA(lv_date) = sy-datum.
-b = sy-subrc.
+a = sy-subrc.
 a = sy-subrc.
 ENDMETHOD.
 ENDCLASS.
